@@ -1,0 +1,22 @@
+.header {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+.loading {
+    margin-top: 20px;
+}
+
+.films_list {
+    padding: 5px;
+    margin-top: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 30px;
+}
+
+.card_load {
+    margin-top: 20px;
+}

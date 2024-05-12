@@ -1,0 +1,15 @@
+.favourites_cards {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    padding: 5px;
+    margin-top: 20px;
+    justify-content: center;
+    gap: 30px;
+}
+
+.favourites_card_film {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
